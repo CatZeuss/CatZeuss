@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Zeuss!**
 
-![GitHub Banner](https://zeuss-dev.replit.app/banner.jpg)
+![GitHub Banner](https://github.com/CatZeuss/CatZeuss/images/Github_banner.png)
 
 🚀 **Desenvolvedor Full-Stack | Designer UI/UX | Gerente de Projetos**  
 🎨 Criador da rede social [ArtKoffee](https://www.art-koffee.com) e desenvolvedor de projetos inovadores como [PolarMind](https://app.polarmind.org) e [ManicScript](https://github.com/CatZeuss/ManicScript).  
