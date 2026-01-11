@@ -121,7 +121,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="500px">
       <img src="images/ArtKoffee-banner.png" width="500px" />
     </td>
     <td>
@@ -137,7 +137,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="500px">
       <img src="images/PolarMind_banner.png" width="500px" />
     </td>
     <td>
@@ -153,7 +153,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="500px">
       <img src="images/ManicScript_banner.png" width="500px" />
     </td>
     <td>
