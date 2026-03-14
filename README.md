@@ -1,9 +1,9 @@
 
 ![GitHub_banner.png](images/Github-banner.png)
 
-<center width="100%">
-  <img margin="auto" align="center" src="https://64.media.tumblr.com/dde3d841004cac68a1af6d37192105b4/b18aff3ce9323114-c9/s100x200/b03614dfc7f602aa842fb41fc4eb29433722c00e.gif">
-</center>
+<div align="center">
+  <img align="center" src="https://64.media.tumblr.com/dde3d841004cac68a1af6d37192105b4/b18aff3ce9323114-c9/s100x200/b03614dfc7f602aa842fb41fc4eb29433722c00e.gif">
+</div>
 <table>
   <tr>
     <td>
