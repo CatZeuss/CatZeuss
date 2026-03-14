@@ -207,10 +207,6 @@
 </div>
 
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/catzeuss/count.svg"
-    alt="Número de visitantes no perfil"
-  /><br>
-  <i>💡 Sinta-se à vontade para explorar meus repositórios, contribuir com projetos ou apenas trocar uma ideia! 🚀</i>
+  <iframe src="//incr.easrng.net/badge?key=changeme" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
 </p>
 
