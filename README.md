@@ -1,4 +1,6 @@
-![welcome.gif](https://web.archive.org/web/20091024061716im_/http://geocities.com/kingskid72/welcome4.gif)
+<center>
+  ![welcome.gif](https://web.archive.org/web/20091024061716im_/http://geocities.com/kingskid72/welcome4.gif)
+</center>
 ![GitHub_banner.png](images/Github-banner.png)
 <table>
   <tr>
