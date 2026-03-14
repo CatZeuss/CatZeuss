@@ -2,7 +2,7 @@
 ![GitHub_banner.png](images/Github-banner.png)
 
 <div align="center">
-  <img align="center" src="https://64.media.tumblr.com/dde3d841004cac68a1af6d37192105b4/b18aff3ce9323114-c9/s100x200/b03614dfc7f602aa842fb41fc4eb29433722c00e.gif">
+  <img align="center" src="https://64.media.tumblr.com/9238b3f8b978bac5fc16429235c49af0/b18aff3ce9323114-6a/s1280x1920/c59c666c62b21559b4d92929e7fc566075bd0669.gifv">
 </div>
 <table>
   <tr>
