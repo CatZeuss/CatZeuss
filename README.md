@@ -2,7 +2,7 @@
 ![GitHub_banner.png](images/Github-banner.png)
 
 <center>
-  <img width="100%" align="center" src="https://web.archive.org/web/20091024061716im_/http://geocities.com/kingskid72/welcome4.gif" alt="welcome.gif">
+  <img width="100%" align="center" src="https://64.media.tumblr.com/dde3d841004cac68a1af6d37192105b4/b18aff3ce9323114-c9/s100x200/b03614dfc7f602aa842fb41fc4eb29433722c00e.gif">
 </center>
 <table>
   <tr>
