@@ -13,8 +13,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
-
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
