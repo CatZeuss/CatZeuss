@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -47,4 +47,4 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git pull --rebase origin main
-          git push --force-with-lease
+          git push
