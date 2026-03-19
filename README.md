@@ -12,11 +12,12 @@
 <table>
   <tr>
     <td>
-      <img
+      <img width=390 src="https://github-readme-stats-drab-seven-40.vercel.app/api?username=catzeuss&count_private=true&show_icons=true&theme=transparent&border_radius=10&include_all_commits=true&show=prs_merged" alt="readme stats" />
+      <!-- <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=catzeuss&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
-      />
+      /> -->
     </td>
     <td>
       <img
@@ -35,6 +36,13 @@
     </td>
   </tr>
 </table>
+<div align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@kattzeuss&theme=dark"
+    alt="WakaTime"
+  />
+</div><br>
 <br><br><br><br>
 <div align="center">
   <h2>Advanced in the following technologies:</h2>
