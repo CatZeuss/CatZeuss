@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>
-      <img width=390 src="https://github-readme-stats-drab-seven-40.vercel.app/api?username=catzeuss&count_private=true&show_icons=true&theme=transparent&border_radius=10&include_all_commits=true&show=prs_merged" alt="readme stats" />
+      <img width=390 src="./profile/stats.svg" alt="readme stats" />
       <!-- <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=catzeuss&theme=dark&hide_border=false&include_all_commits=true"
@@ -22,7 +22,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=catzeuss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="./profile/top-langs.svg"
         alt="Github Stats"
       />
     </td>
