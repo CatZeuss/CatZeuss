@@ -44,9 +44,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch --unshallow 2>/dev/null || git fetch origin main
-          git checkout origin/main -- . 2>/dev/null || true
+          git fetch origin main
+          git reset --mixed origin/main
           git add profile/*.svg
           git diff --cached --quiet && exit 0
           git commit -m "Update README cards"
-          git push origin HEAD:main --force-with-lease=main:origin/main
+          git push origin main --force
