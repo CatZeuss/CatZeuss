@@ -48,7 +48,7 @@
   <h2>Advanced in the following technologies:</h2>
   <img align="left" width="40%" src="https://64.media.tumblr.com/788ac6266c78df1e5a7751bc7084bc2b/4160be3cc2b84620-c7/s250x400/4a07a79cfeec93da7db5823ae736738d6cadf31b.gifv" alt="nyancat"/><br><br><br><br>
   
-  <ul><h3>Backend developing</h3>
+  <ul type="none"><h3>Backend developing</h3>
     <li>
       <img
     align="center"
@@ -79,7 +79,7 @@
     </li>
   </ul>
 
-  <ul><h3>Management and developer dashboards</h3>
+  <ul type="none"><h3>Management and developer dashboards</h3>
     <li>
       <img
     align="center"
@@ -159,7 +159,7 @@
     </li>
   </ul>
 
-  <ul><h3>Database</h3>
+  <ul type="none"><h3>Database</h3>
     <li>
       <img
     align="center"
@@ -183,7 +183,7 @@
     </li>
   </ul> 
   
-  <ul> <h3>Frontend</h3>
+  <ul type="none"> <h3>Frontend</h3>
     <li>
       <img
     align="center"
@@ -250,7 +250,7 @@
     
   </ul>
 
-  <ul> <h3>Security, Session, Authentication and Authorization</h3>
+  <ul type="none"> <h3>Security, Session, Authentication and Authorization</h3>
     <li>
       <img
     align="center"
@@ -265,7 +265,7 @@
 
   <h2>Learning the following technologies:</h2>
   <img align="left" width="40%" src="https://64.media.tumblr.com/788ac6266c78df1e5a7751bc7084bc2b/4160be3cc2b84620-c7/s250x400/4a07a79cfeec93da7db5823ae736738d6cadf31b.gifv" alt="nyancat"/><br><br><br><br>
-  <ul>
+  <ul type="none">
     <li>
       <img
     align="center"
