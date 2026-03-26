@@ -181,6 +181,13 @@
     alt="PHPMyAdmin"
     /> (+2 years of experience)
     </li>
+    <li>
+      <img
+    align="center"
+    src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
+    alt="Redis"
+    /> (+1 year of experience)
+    </li>
   </ul> 
   
   <ul type="none"> <h3>Frontend</h3>
@@ -272,13 +279,6 @@
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="React"
     /> (Focus on frontend)
-    </li>
-    <li>
-      <img
-    align="center"
-    src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
-    alt="Redis"
-    /> (Focus on database and caching)
     </li>
     <li>
       <img
