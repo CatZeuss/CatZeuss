@@ -1,6 +1,80 @@
 <div align="center">
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2035%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 433.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 860 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                72 commits          ███████████░░░░░░░░░░░░░░   42.11 % 
+🌆 Daytime                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+🌃 Evening                32 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+🌙 Night                  43 commits          ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Wednesday                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Thursday                 85 commits          ████████████░░░░░░░░░░░░░   49.71 % 
+Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Saturday                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   12 hrs 51 mins      ████████████████░░░░░░░░░   65.30 % 
+HTML                     6 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 41 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+ArtKoffeeOfficial        19 hrs 41 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  19 hrs 41 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     7 repos             █████████████░░░░░░░░░░░░   53.85 % 
+Python                   5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/CatZeuss/CatZeuss/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/03/2026 11:15:29 UTC
 <!--END_SECTION:waka-->
 </div>
 
