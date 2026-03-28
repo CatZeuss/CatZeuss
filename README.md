@@ -5,11 +5,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue?style=flat)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-338.67%20thousand%20lines%20of%20code-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 433.3 kB Used in GitHub's Storage 
  > 
-> 🏆 860 Contributions in the Year 2026
+> 🏆 857 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,12 +71,8 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/CatZeuss/CatZeuss/main/assets/bar_graph.png)
-
-
- Last Updated on 28/03/2026 11:15:29 UTC
+ Last Updated on 28/03/2026 11:17:33 UTC
 <!--END_SECTION:waka-->
 </div>
 
