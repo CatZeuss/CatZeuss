@@ -13,11 +13,6 @@
   <tr>
     <td>
       <img width=390 src="./profile/stats.svg" alt="readme stats" />
-      <!-- <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=catzeuss&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      /> -->
     </td>
     <td>
       <img
@@ -37,11 +32,8 @@
   </tr>
 </table>
 <div align="center">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/CatZeuss/CatZeuss/master/images/wakatime_weekly_language_stats.svg"
-    alt="WakaTime"
-  />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div><br>
 <br><br><br><br>
 <div align="center">
