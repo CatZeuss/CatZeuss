@@ -86,22 +86,12 @@ C++                      1 repo              ██░░░░░░░░░�
     alt="Github Stats"
   />
 </div><br>
-<table>
-  <tr>
-    <td>
-      <img width=390 src="./profile/stats.svg" alt="readme stats" />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="./profile/top-langs.svg"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
+<table align="center">
+  <tr align="center">
+    <td align="center">
       <br />
       <img
-        align="left"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=catzeuss&theme=dark&hide_border=false"
         alt="Github Stats"
       />
@@ -372,9 +362,9 @@ C++                      1 repo              ██░░░░░░░░░�
 
 ---
 
-## 🚀 Meus Projetos
+## જ⁀➴ My projects
 
-### 🖌️ ArtKoffee *(Em desenvolvimento)*
+### - ArtKoffee *(in development)*
 
 <table>
   <tr>
@@ -382,15 +372,15 @@ C++                      1 repo              ██░░░░░░░░░�
       <img src="images/ArtKoffee-banner.png" width="500px" />
     </td>
     <td>
-      <strong>Uma rede social para artistas compartilharem suas criações.</strong><br>
-      🔗 <a href="https://github.com/ArtKoffee/ArtKoffee">Repositório</a> | 🌐 <a href="https://www.art-koffee.com/home">Site Oficial</a>
+      <strong>A social network for artists share their creations.</strong><br>
+      🔗 <a href="https://github.com/ArtKoffee/ArtKoffee">Repo</a> | 🌐 <a href="https://www.art-koffee.com/home">Website</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧠 PolarMind *(Em desenvolvimento)*
+### - PolarMind *(in development)*
 
 <table>
   <tr>
@@ -398,15 +388,15 @@ C++                      1 repo              ██░░░░░░░░░�
       <img src="images/PolarMind_banner.png" width="500px" />
     </td>
     <td>
-      <strong>Aplicação para registro de estados de humor, auxiliando pessoas com transtorno bipolar.</strong><br>
-      🔗 <a href="https://github.com/CatZeuss/PolarMind">Repositório</a> | 🌐 <a href="https://app.polarmind.org">Site Oficial</a>
+      <strong>Application for recording mood states, helping people with bipolar disorder.</strong><br>
+      🔗 <a href="https://github.com/CatZeuss/PolarMind">Repo</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔥 ManicScript *(Concluído)*
+### - ManicScript *(Finished)*
 
 <table>
   <tr>
@@ -414,15 +404,15 @@ C++                      1 repo              ██░░░░░░░░░�
       <img src="images/ManicScript_banner.png" width="500px" />
     </td>
     <td>
-      <strong>Uma linguagem de programação de paródia, criada para experimentação e aprendizado.</strong><br>
-      🔗 <a href="https://github.com/CatZeuss/ManicScript">Repositório</a> | 📜 <a href="https://manic-script.replit.app">Documentação</a>
+      <strong>A parody programming language, created for experimentation and learning.</strong><br>
+      🔗 <a href="https://github.com/CatZeuss/ManicScript">Repo</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📫 Entre em Contato
+## જ⁀➴ Contact me!
 
 
 <div align="center">
