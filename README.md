@@ -1,38 +1,6 @@
-
-![GitHub_banner.png](images/Github-banner.png)
-
 <div align="center">
-  <img align="center" src="https://64.media.tumblr.com/dde3d841004cac68a1af6d37192105b4/b18aff3ce9323114-c9/s250x400/cb4e38c1da374ea7c29ecf7855d28d885d050a14.gifv"><br><br>
-  <img
-    align="left"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CatZeuss&theme=react-dark"
-    alt="Github Stats"
-  />
-</div><br>
-<table>
-  <tr>
-    <td>
-      <img width=390 src="./profile/stats.svg" alt="readme stats" />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="./profile/top-langs.svg"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=catzeuss&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <!--START_SECTION:waka-->
+  
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue?style=flat)
@@ -108,7 +76,40 @@ C++                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 28/03/2026 10:52:24 UTC
 <!--END_SECTION:waka-->
+</div>
+
+![GitHub_banner.png](images/Github-banner.png)
+
+<div align="center">
+  <img align="center" src="https://64.media.tumblr.com/dde3d841004cac68a1af6d37192105b4/b18aff3ce9323114-c9/s250x400/cb4e38c1da374ea7c29ecf7855d28d885d050a14.gifv"><br><br>
+  <img
+    align="left"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CatZeuss&theme=react-dark"
+    alt="Github Stats"
+  />
 </div><br>
+<table>
+  <tr>
+    <td>
+      <img width=390 src="./profile/stats.svg" alt="readme stats" />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="./profile/top-langs.svg"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=catzeuss&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 <br><br><br><br>
 <div align="center">
   <h2>Advanced in the following technologies:</h2>
