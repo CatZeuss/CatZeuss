@@ -39,7 +39,7 @@
 <div align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=@kattzeuss&theme=dark"
+    src="https://raw.githubusercontent.com/CatZeuss/CatZeuss/master/images/wakatime_weekly_language_stats.svg"
     alt="WakaTime"
   />
 </div><br>
