@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-346.39%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -72,7 +72,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 19:50:11 UTC
+ Last Updated on 14/04/2026 19:50:05 UTC
 <!--END_SECTION:waka-->
 </div>
 
