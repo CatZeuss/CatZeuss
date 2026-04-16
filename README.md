@@ -46,19 +46,16 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   9 hrs 4 mins        ██████████████████████░░░   87.40 % 
-HTML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 hrs 23 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ArtKoffee-Admin          5 hrs 19 mins       █████████████░░░░░░░░░░░░   51.27 % 
-ArtKoffeeOfficial        5 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.73 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 hrs 23 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -72,7 +69,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2026 19:50:05 UTC
+ Last Updated on 16/04/2026 19:46:15 UTC
 <!--END_SECTION:waka-->
 </div>
 
