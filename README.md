@@ -1,17 +1,17 @@
 <div align="center">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-372.14%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-372.15%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 498.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,122 Contributions in the Year 2026
+> 🏆 1,131 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                125 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
-🌆 Daytime                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-🌃 Evening                99 commits          ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-🌙 Night                  99 commits          ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌞 Morning                125 commits         █████████░░░░░░░░░░░░░░░░   34.53 % 
+🌆 Daytime                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+🌃 Evening                99 commits          ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+🌙 Night                  100 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Wednesday                67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Thursday                 144 commits         ██████████░░░░░░░░░░░░░░░   39.89 % 
-Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Saturday                 53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Monday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Wednesday                67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Thursday                 145 commits         ██████████░░░░░░░░░░░░░░░   40.06 % 
+Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Saturday                 53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 
@@ -46,16 +46,18 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     2 mins              █████████████████████████   100.00 % 
+Python                   40 mins             ██████████████░░░░░░░░░░░   57.00 % 
+HTML                     30 mins             ███████████░░░░░░░░░░░░░░   43.00 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtKoffee-Admin          2 mins              █████████████████████████   100.00 % 
+ArtKoffeeOfficial        1 hr 9 mins         ████████████████████████░   97.09 % 
+ArtKoffee-Admin          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,7 +78,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:03:52 UTC
+ Last Updated on 20/08/2026 19:11:39 UTC
 <!--END_SECTION:waka-->
 </div>
 
