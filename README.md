@@ -46,18 +46,18 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   9 hrs 20 mins       ████████████████░░░░░░░░░   65.58 % 
-HTML                     4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
+Python                   8 hrs 41 mins       ███████████████████░░░░░░   76.96 % 
+HTML                     2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtKoffeeOfficial        11 hrs 3 mins       ███████████████████░░░░░░   77.58 % 
-Unknown Project          3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+ArtKoffeeOfficial        8 hrs 5 mins        ██████████████████░░░░░░░   71.68 % 
+Unknown Project          3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
 
 💻 Operating System: 
-Windows                  14 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,7 +78,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 21:11:16 UTC
+ Last Updated on 12/09/2026 20:54:53 UTC
 <!--END_SECTION:waka-->
 </div>
 
