@@ -1,7 +1,7 @@
 <div align="center">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,17 +46,17 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   47 mins             ███████████████████░░░░░░   77.88 % 
-HTML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+HTML                     1 hr 11 mins        ██████████████░░░░░░░░░░░   54.04 % 
+Python                   1 hr                ███████████░░░░░░░░░░░░░░   45.96 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtKoffeeOfficial        1 hr                █████████████████████████   100.00 % 
+ArtKoffeeOfficial        2 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +77,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:42:12 UTC
+ Last Updated on 24/09/2026 21:43:31 UTC
 <!--END_SECTION:waka-->
 </div>
 
