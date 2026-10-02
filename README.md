@@ -1,7 +1,7 @@
 <div align="center">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,18 +46,21 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     2 hrs 9 mins        ███████████████░░░░░░░░░░   61.03 % 
-Python                   1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   38.97 % 
+HTML                     1 hr 50 mins        █████████████░░░░░░░░░░░░   52.54 % 
+Python                   1 hr 39 mins        ████████████░░░░░░░░░░░░░   47.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtKoffeeOfficial        2 hrs 29 mins       ██████████████████░░░░░░░   70.20 % 
-ArtKoffee-Admin          1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+ArtKoffeeOfficial        2 hrs 27 mins       ██████████████████░░░░░░░   70.01 % 
+ArtKoffee-Admin          1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,7 +81,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 22:51:14 UTC
+ Last Updated on 02/10/2026 22:28:19 UTC
 <!--END_SECTION:waka-->
 </div>
 
