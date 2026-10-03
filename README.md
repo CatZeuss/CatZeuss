@@ -1,7 +1,7 @@
 <div align="center">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,21 +46,22 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     1 hr 50 mins        █████████████░░░░░░░░░░░░   52.54 % 
-Python                   1 hr 39 mins        ████████████░░░░░░░░░░░░░   47.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+HTML                     1 hr 43 mins        ███████████████░░░░░░░░░░   61.91 % 
+Python                   1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtKoffeeOfficial        2 hrs 27 mins       ██████████████████░░░░░░░   70.01 % 
-ArtKoffee-Admin          1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+ArtKoffeeOfficial        2 hrs 18 mins       █████████████████████░░░░   82.96 % 
+ArtKoffee-Admin          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,7 +82,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:28:19 UTC
+ Last Updated on 03/10/2026 21:41:21 UTC
 <!--END_SECTION:waka-->
 </div>
 
