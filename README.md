@@ -1,7 +1,7 @@
 <div align="center">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -9,9 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 498.4 kB Used in GitHub's Storage 
+> 📦 498.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,309 Contributions in the Year 2026
+> 🏆 1,310 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -46,23 +46,23 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 13 mins       ████████████████░░░░░░░░░   63.87 % 
-HTML                     2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   5 hrs 2 mins        ████████████████░░░░░░░░░   63.82 % 
+HTML                     2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtKoffeeOfficial        4 hrs 58 mins       ███████████████████░░░░░░   74.99 % 
-ArtKoffee-Admin          56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-ArtKoffee Loadtest       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+ArtKoffeeOfficial        6 hrs 14 mins       ████████████████████░░░░░   79.04 % 
+ArtKoffee-Admin          56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+ArtKoffee Loadtest       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +83,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:45:11 UTC
+ Last Updated on 07/10/2026 23:15:55 UTC
 <!--END_SECTION:waka-->
 </div>
 
