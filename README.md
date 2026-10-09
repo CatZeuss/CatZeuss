@@ -46,23 +46,21 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 44 mins       ██████████████████░░░░░░░   71.68 % 
-HTML                     1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   4 hrs 7 mins        ████████████████████░░░░░   78.51 % 
+HTML                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtKoffeeOfficial        5 hrs 17 mins       ████████████████████░░░░░   80.23 % 
-ArtKoffee-Admin          35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-ArtKoffee Loadtest       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+ArtKoffeeOfficial        3 hrs 56 mins       ███████████████████░░░░░░   75.13 % 
+ArtKoffee-Admin          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+ArtKoffee Loadtest       35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 💻 Operating System: 
-Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +81,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:31:21 UTC
+ Last Updated on 09/10/2026 22:49:52 UTC
 <!--END_SECTION:waka-->
 </div>
 
