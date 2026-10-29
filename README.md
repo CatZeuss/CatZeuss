@@ -1,7 +1,7 @@
 <div align="center">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,21 +46,21 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   7 hrs 25 mins       ██████████████████████░░░   88.87 % 
-HTML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   6 hrs 57 mins       ███████████████████████░░   93.92 % 
+HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtKoffeeOfficial        8 hrs 8 mins        ████████████████████████░   97.56 % 
-ArtKoffee-Admin          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-ArtKoffee-Support        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+ArtKoffeeOfficial        6 hrs 54 mins       ███████████████████████░░   93.26 % 
+ArtKoffee-Admin          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+ArtKoffee-Support        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  8 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,7 +82,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 22:46:56 UTC
+ Last Updated on 29/10/2026 22:55:37 UTC
 <!--END_SECTION:waka-->
 </div>
 
